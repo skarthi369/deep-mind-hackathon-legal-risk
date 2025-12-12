@@ -1,0 +1,5 @@
+{
+  "name": "Legal Risk Radar",
+  "description": "AI-Powered Multi-Region Contract Analysis Tool. Checks contracts against local laws in India, Singapore, Malaysia, UAE, and Hong Kong.",
+  "requestFramePermissions": []
+}
